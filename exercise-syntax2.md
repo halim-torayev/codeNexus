@@ -1,7 +1,7 @@
 # About Me 
 
 ## Who Am I?
-I am a participant of a CodeNexus github CV workshop 
+I am a participant in the CodeNexus GitHub CV workshop. 
 
 ## Skills
 - Git
