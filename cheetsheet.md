@@ -1,3 +1,1 @@
-# Main Title
-## Section Title
-### Small Title 
+**This text is bold**
